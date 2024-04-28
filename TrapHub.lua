@@ -1,4 +1,4 @@
-local repo = "https://raw.githubusercontent.com/TrapstarKSSKSKSKKS/Main/main/"
+local repo = "https://raw.githubusercontent.com/NotZyixx/traphubreworked"
 local Id = game.PlaceId
 local GameId = game.GameId
 
@@ -10,22 +10,22 @@ local Games = {
 	},
 	["RoGhoul"] = {
 		FileName = "RoGhoul",
-		PlaceId = { 380704901 },
+		PlaceId = { 914010731 },
 		GameName = "RoGhoul",
 	},
 	["Blade Ball"] = {
 		FileName = "BladeBall",
-		PlaceId = { 4777817887 },
+		PlaceId = { 13772394625 },
 		GameName = "Blade Ball",
 	},
 	["ASX"] = {
 		FileName = "AnimeSouls",
-		PlaceId = { 5300677688 },
+		PlaceId = { 15367026228 },
 		GameName = "Anime Souls Simulator X",  
         },
 	["ALS"] = {
 		FileName = "AnimeLast",
-		PlaceId = { 4509896324 },
+		PlaceId = { 12886143095 },
 		GameName = "Anime Last",  
 	},
 }
